@@ -6,6 +6,8 @@ BinaryHeap.java @author Mark Allen Weiss; @author McCauley - rewrote loops in pe
 
 HW7.java @author Hannah Posch
 
+HW7.pdf @author Hannah Posch
+
 HW7_AbstractClass.java @author McCauley
 
 UnderflowException.java @author McCauley
